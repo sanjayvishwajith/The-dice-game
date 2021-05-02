@@ -1,0 +1,47 @@
+body{
+
+ background: linear-gradient( #ffccff , #33cccc );
+ height: 100%;
+ width: 100%;
+ background-attachment: fixed;
+}
+.wrapper{
+  width: 70%;
+  margin : auto ;
+  text-align : center;
+}
+
+.ml15 {
+  font-weight: 500;
+  font-size: 1em;
+  font-size: 1.5rem;
+  color: red;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.ml15 .word {
+  margin : 45px;
+  display: inline-block;
+  line-height: 1em;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  letter-spacing: 0.2rem;
+  font-size : 4rem;
+  text-shadow: 4px 4px 5px grey;
+}
+.dice-area{
+  margin : 0px 50px;
+  text-align: center;
+  display : inline-block;
+}
+
+p{
+  font-family: Helvetica, Arial, sans-serif;
+  letter-spacing: 0.2rem;
+  text-shadow: 4px 4px 5px grey;
+  font-size : 2.5rem;
+  color : #FFFFFF;
+}
+img {
+  width : 320px;
+}
